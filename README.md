@@ -15,3 +15,4 @@ reveal whether they survived or not, also known as the “ground truth”. The t
 contains similar information but does not disclose the “ground truth” for each passenger. 
 The goal to predict these outcomes.
 
+"final_pred" and "Predictions" files are the results of my analysis.
