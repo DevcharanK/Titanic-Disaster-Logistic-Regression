@@ -16,3 +16,5 @@ contains similar information but does not disclose the “ground truth” for ea
 The goal to predict these outcomes.
 
 "final_pred" and "Predictions" files are the results of my analysis.
+
+The PDF document contains the final report written by Devcharan K.
